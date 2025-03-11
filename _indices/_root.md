@@ -7,6 +7,7 @@
 - [[Lernen]]
 - [[Rechtliches]]
 - [[homelab]]
+- [[Work Life]]
 - [[Software Engineering]]
 - [[Kognitive Neurowissenschaften]]
 - [[Psychologie]]

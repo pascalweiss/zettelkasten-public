@@ -3,7 +3,7 @@ SSL/TLS is used to provide a secure connection between a client and a server.
 
 ### Key elements
 ##### Authentication
-The server sends a certificate to the client. The client can use this to authenticate the server at a well-known certificate authority (CA). 
+The server sends a certificate to the client. The client can use this to authenticate the server at a well-known certificate authority (CA). See [[Authentication and authorization]]
 
 ##### Encryption
 private-/public-keys are used to encrypt any communication between the client and the server
