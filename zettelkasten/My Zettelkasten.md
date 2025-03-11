@@ -8,11 +8,8 @@ Basically my Zettelkasten system has the following main elements:
 - [[Properties of Zettels and Links]]
 - [[Digital Garden - Publishing Zettelkasten to the web]]
 
-### Related links
-- [[Collection of digital gardens]] i.e. set of public Zettelkästen
 
-### public Zettelkasten
-- [[Quartz showcase]]: A set of many nice digital gardens
+I host my Zettelgarten with quartz. See [[My digital garden]]
 
 ### Backlinks
 ```dataview 
