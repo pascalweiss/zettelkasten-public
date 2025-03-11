@@ -1,5 +1,5 @@
 #public
-An open-source identity and access management(IAM) system. It provides authentication, authorisation, and user-management for applications and services. It provides features such as SSO (single-sign-on), OAuth2 (social login), etc. 
+An open-source identity and access management (IAM) system. It provides authentication, authorisation (see [[Authentication and authorization]])and user-management for applications and services. It provides features such as SSO (single-sign-on), OAuth2 (social login), etc. 
 
 ### SPI - Extending Keycloaks functionality
 Keycloak provides a framework for extending its functionality. Therefore it provides various interfaces, i.e. SPI (Service Provider Interface), which can then be applied by the keycloak application.

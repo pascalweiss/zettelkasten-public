@@ -3,6 +3,7 @@
 - [[Workflow for git add, commit and push with submodules]]
 - [[git submodules in intelliJ (Jetbrains)]]
 - [[git - Rewrite author and username in history]]
+- [[git config cheatsheet]]
 
 ### Backlinks
 ```dataview 
