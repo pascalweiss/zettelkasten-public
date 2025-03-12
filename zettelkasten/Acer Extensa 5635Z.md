@@ -1,4 +1,5 @@
 #public
+
 ## General Information
 - **Brand:** Acer
 - **Model:** Extensa 5635Z
