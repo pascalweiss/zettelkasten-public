@@ -1,4 +1,4 @@
-#draft #public
+#public 
 
 I see my homelab as a place where I can easily deploy software. This might either be for educational purposes, like testing out certain programming languages, frameworks or libraries, or it might be for prototyping of business ideas. 
 The
@@ -7,11 +7,10 @@ The
 I want to run multiple applications with certain tech stack. See requirements here:
 [[homelab - requirements]]
 
-
 ### Infrastructure
 
 #### Kubernetes cluster
-My homeland is based on a kubernetes cluster, that runs on two workers ([[Lenovo V145-15AST]], [[Acer Extensa 5635Z]]) and two masters/workers (both ([[Minis Forum Venus Series UM773]])).
+My homeland is based on a kubernetes cluster, that runs on two workers ([[Lenovo V145-15AST]], [[Acer Extensa 5635Z]]) and two masters/workers (both ([[Minis Forum Venus Series UM773]])). I use microk8s from cannonical
 
 #### Version Control and CI
 The git repository is provided by a self hosted gitlab instance on one of the [[Minis Forum Venus Series UM773]]. Merges to the main branches must go through a MR review. With every MR, there is a CI pipeline which executes builds, tests, and a preview-deployment. For more see [[homelab - gitlab]]
@@ -24,9 +23,14 @@ The domains `homelab.lan` or `*.homelab.lan` are resolved to 192.168.8.200 (this
 Also I have set up a OpenVPN server together with DynDNS, so that I can access my homelab from everywhere. 
 For more, see [[homelab - DNS and VPN setup]]
 
+#### Ingress
+Every traffic that goes into my k8s cluster is routed through an ingress service. It has set of rules with which requests are routed to the right apps, i.e. services. For more, see [[homelab - Ingress]].
 
-### Various TODO
-- [[homelab - Ingress]]
+
+### Projects
+This section provides all projects, that are hosted in the cluster
+- [[My digital garden]]
+
 
 ### Backlinks
 ```dataview 

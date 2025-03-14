@@ -1,6 +1,8 @@
 #index #public
 
 ### Kubernetes and Infrastructure Management 
+
+- [[Kubernetes]]
 - [[Helm]]
 - [[Kustomize]]
 - [[Renovate]]
