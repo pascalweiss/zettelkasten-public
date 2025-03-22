@@ -14,7 +14,7 @@ A tool that helps to implement [[GitOps]] principles for kubernetes. It watches 
 ### Further Topics
 - [[FluxCD - Image automation]]
 - [[FluxCD - Commands and tips]]
-- [[FluxCD - ]]
+- [[FluxCD - Preview deployments]]
 
 #### Flux Basics
 - [[FluxCD - Bootstrapping with Github]]

@@ -13,10 +13,13 @@
 • A GL-MT6000 router (running a GL.iNet-customized OpenWrt) provides DNS. Under **DHCP and DNS → General Settings**, a rule is defined:
 
 ```
-/homelab.lan/192.168.8.200
+/homelab.lan/192.168.8.201
+/git.homelab.lan/192.168.8.200
 ```
 
-• This wildcard mapping means all requests for *.homelab.lan resolve to the homelab server at 192.168.8.200.
+- This first wildcard mapping means all requests for `*.homelab.lan` resolve to the homelab server at 192.168.8.201
+- The second wildcard mapping means, that all requests `git.homelab.lan` are resolved to the homlab server at 192.168.8.200
+
 
 
 #### Automatic DNS Assignment
@@ -38,9 +41,9 @@ uci commit dhcp
 
 #### Wildcard Subdomains for CI/CD
 
-• With `/homelab.lan/192.168.8.200` in place, any subdomain of homelab.lan (e.g., `test.myapp.homelab.lan` or `mr-23.myapp.homelab.lan`) automatically points to the homelab server.
+• With `/homelab.lan/192.168.8.201` in place, any subdomain of homelab.lan (e.g., `test.myapp.homelab.lan` or `mr-23.myapp.homelab.lan`) automatically points to the homelab server.
 
-• A reverse proxy [[homelab - Ingress ]] on 192.168.8.200 inspects the incoming Host header and routes it to the appropriate container or application.
+• A reverse proxy [[homelab - Ingress ]] on 192.168.8.201 inspects the incoming Host header and routes it to the appropriate container or application.
 
 • This setup allows CI/CD pipelines to create new deployments and subdomains without modifying DNS rules on the router.
 

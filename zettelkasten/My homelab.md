@@ -19,7 +19,7 @@ The git repository is provided by a self hosted gitlab instance on one of the [[
 For each application, the main branches are deployed to the cluster with Flux (see [[FluxCD]]). For more see [[homelab - FluxCD]]
 
 #### DNS and VPN
-The domains `homelab.lan` or `*.homelab.lan` are resolved to 192.168.8.200 (this is the node where my ingress runs). The domain server is hosted on my router [[GL.iNet GL-MT6000]]. 
+The domains `homelab.lan` or `*.homelab.lan` are resolved to 192.168.8.201 (this is the node where my ingress runs). The domain server is hosted on my router [[GL.iNet GL-MT6000]]. 
 Also I have set up a OpenVPN server together with DynDNS, so that I can access my homelab from everywhere. 
 For more, see [[homelab - DNS and VPN setup]]
 

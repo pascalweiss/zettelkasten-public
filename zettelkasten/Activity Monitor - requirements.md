@@ -6,8 +6,9 @@
 - Data is written via a simple backend into a postgres database
 
 ### Functional requirements
-- There is a text field on the bottom, where the user can type in an activity (e.g. "washed the dishes).
+- There is a text field on the bottom, where the user can type in an activity (e.g. "washed the dishes").
 - When the user types in an activity, and presses enter, or clicks "submit", then this becomes an entry in a list
+- The entry shows the text, that was typed in by the user.
 - Next to the entry, there is a counter, which is set to 1, when the activity was created
 - When the user did the same activity again, then he can click a button with label +1. This will increase the counter with +1
 - There is also a -1 button. This will decrease the counter with -1. 
