@@ -1,7 +1,6 @@
 #public 
 
-I see my homelab as a place where I can easily deploy software. This might either be for educational purposes, like testing out certain programming languages, frameworks or libraries, or it might be for prototyping of business ideas. 
-The
+I see my homelab as a place where I can easily deploy software. This might either be for educational purposes, like testing out certain programming languages, frameworks or libraries, or it might be for prototyping of business ideas.
 
 ### Requirements
 I want to run multiple applications with certain tech stack. See requirements here:

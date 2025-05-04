@@ -1,6 +1,5 @@
 #index #public
 
-- [[OPS]]
 - [[Stress Tests]]
 - [[GitOps]]
 

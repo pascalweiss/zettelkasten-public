@@ -6,7 +6,9 @@
 - ... have gitlab running outside the kubernetes cluster
 - ... have gitlab runners running inside the kubernetes cluster
 - ... have one repository for the infrastructure
-- ... have a single (main) domain, where everything is hosted: homelab.lan
+- ... have a single (main) domain, …
+   - ... with which everything can be accessed ...
+   - ... that is from a public domain provider, so that I can have ssl certificates for https
 
 **for each application, I want to: ...**
 - ... have a separate repository ...
@@ -18,7 +20,7 @@
 	- ... that triggers a new preview deployment for the new feature in kubernetes
 - **for each deployment, I want to: ...**
 	- ... have a separate namespace
-	- ... have a separate separate subdomain
+	- ... have a separate separate subdomain (to) the main domain)
 
 
 **So that: ...**
