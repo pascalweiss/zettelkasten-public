@@ -5,7 +5,7 @@ Still, it is something else. Unlike in a commercial context, a homelab is like a
 While we as software developers often create little project for trying things out and have them on our disk, a homelab invites you to go the extra mile and to deploy them. 
 
 #### My Homelab
-When I have some free time, I like to develop my own homelab. See documentation about my homelab, here: [[My homelab]]
+When I have some free time, I like to develop Stufe in my homelab. See documentation about my homelab, here: [[My homelab]]
 
 #### Benefits
 Building a homelab takes some effort. But when it is there, it brings various benefits. For more, see [[homelab - benefits]]
