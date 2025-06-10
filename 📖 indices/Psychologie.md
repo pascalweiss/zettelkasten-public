@@ -1,7 +1,11 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-01T12:46
+---
 #index #public
 
 ### Entwicklungspsychologie
-- [[Entwicklung von Kognitiven Fähigkeiten]]
+- [[Frühzeitige Entwicklung von Kognitiven Fähigkeiten]]
 - [[Entwicklung der Willentlichen Kontrolle über Gedanken, Emotionen und Verhaltensweisen]]
 
 
