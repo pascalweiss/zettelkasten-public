@@ -1,3 +1,7 @@
+---
+created: 2025-03-11T16:23
+updated: 2025-06-10T23:41
+---
 #public
 
 My public Zettelkasten notes from [[My Zettelkasten]] are going to be hosted as static website in my homelab (see [[My homelab]]) with quartz. And maybe on some public domain, as well. But we'll see
@@ -15,11 +19,12 @@ This setup fulfills the following requirements:
 - the pipe builds a static quartz app as docker image and publishes it in my private nexus
 - Flux CD automatically deploys every new release in my private k8s
 
+
 ```mermaid
 graph TD
 A[device A] -->|write| B[iCloud sync]
 B -->|read| A
-B -->|read| C[device A]
+B -->|read| C[device B]
 C -->|write| B
 B -->|read| D["cron job (rclone)"]
 D -->|commit| E[git repo]
