@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public 
 
 Sometimes you might have to rewrite the author and committer in the git log. To do this, do:

@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #achtsamkeit 
 
 Es gibt verschiedene Techniken, um die eigene Gefühlswelt in einen bestimmten und erwünschten Zustand zu bringen, um so in einen Zustand der Achtsamkeit zu kommen:

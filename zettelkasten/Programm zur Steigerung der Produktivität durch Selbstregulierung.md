@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public 
 In folgendem wird beschrieben was man tun kann, wenn eine Arbeit verrichten muss, aber das Gefühl hat, dass man nicht effizient arbeitet auf Grund von negativen Gefühlen, z.B. Überforderung, Multitasking, etc.  Der Ablauf des Programms orientiert sich an der Maslow Pyramide (siehe [[Maslows Bedürfnishierarchie (Pyramide)]]). Die Pyramide von unten nach oben durchlaufen, wobei bei jeder Stufe die existierenden negativen Gefühle identi
 Also Es sollen nach und nach negative Gefühle durch Befriedigung entsprechender Bedürfnisse ausgeräumt werden. 

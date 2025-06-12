@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #achtsamkeit 
 
 In der Achtsamkeitslehre ist wertfreie Wahrnehmung eine Technik, bei der man es unterlässt, Wahrnehmungen - gerade unvorhergesehene - zu werten, und dadurch Emotionen zu erzeugen, die die Achtsamkeit behindern können.

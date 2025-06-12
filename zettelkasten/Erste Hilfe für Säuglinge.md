@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public
 # Notruf
 - Olgahospital 0711 278 04. hier bekommt man sogar Ärzte ans Telefon 

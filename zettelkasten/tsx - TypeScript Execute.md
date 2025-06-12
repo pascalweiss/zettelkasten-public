@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public
 A tool for direct TypeScript execution. The code must not be compiled to Javascript, anymore. This also makes TypeScript configurations obsolete. 
 

@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public
 Kind of a package manager. Used for deploying and managing applications in a kubernetes cluster.
 

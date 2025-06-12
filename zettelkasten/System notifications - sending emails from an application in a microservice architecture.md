@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public
 Sending emails programmatically is straight forward. There are many libs and tools, that do this. E.g. there is swaks - the smtp swiss army knife - with which an email can simply be sent as follows (example is based specifically for mailgun):
 ```

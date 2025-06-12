@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public
 ### Ursprung
 auf lateinisch "divide et impera". Wurde von Herrschern wie Julius Caesar zum Erhalt der eigenen Macht angewendet. Hierbei wurden einzelne Gruppen durch schüren von Konflikten gespalten, um sie so zu schwächen. 

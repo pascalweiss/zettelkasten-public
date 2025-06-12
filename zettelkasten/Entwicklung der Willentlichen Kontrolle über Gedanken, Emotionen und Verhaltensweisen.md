@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public
 Ab der Geburt nimmt die Fähigkeit zur Selbstregulation immer mehr zu. Dies beinhaltet folgende Fähigkeiten:
 - **Selektive Aufmerksamkeit**: Die Fähigkeit die Aufmerksamkeit bewusst auf einen bestimmten Reiz oder Aufgabe zu lenken

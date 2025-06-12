@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public
 Die Fähigkeit trotz widriger Umstände, Stress oder Konflikte emotional und mental stabil zu bleiben. Hierzu gehören folgende Schlüsselmerkmale:
 

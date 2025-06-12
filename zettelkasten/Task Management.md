@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public 
 Alltägliche Aufgaben werden gerne vor einem her geschoben. Dadurch bleiben sie im Kopf und können einen belasten. Ein bewusstes Task Management kann dies verhindern. Hierfür empfiehlt es sich ein System anzuwenden.
 

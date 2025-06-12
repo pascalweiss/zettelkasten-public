@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public
 
 A homelab is like a laboratory for software. Technically it is one or more physical or virtual hardware component with a certain amount of CPU and RAM, a network configuration (including IP addresses, VLANs, firewalls, etc.) and a stack of software. Typically, it is managed by a Kubernetes cluster. and follows the similar conventions and requirements that you would have in a production ready cluster. 
