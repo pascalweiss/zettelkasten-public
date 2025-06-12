@@ -1,9 +1,13 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T11:56
+---
 #public
 
 The token might expire over time. Don't forget to update it
 
 
-With the bootstrapping (see [[FluxCD - Bootstrapping with Github]]), flux stores the access token in a **kubernetes secret**, see:
+With the bootstrapping (see [[FluxCD - Bootstrapping with Gitlab]]), flux stores the access token in a **kubernetes secret**, see:
 ```
 kubectl get secrets -n flux-system
 ```
