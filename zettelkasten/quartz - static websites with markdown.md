@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public 
 
 Quartz is a tool for building a static website from markdown (see [[docu - Markdown]]). It can be used for hosting a zettelkasten (see [[My Zettelkasten]]). 

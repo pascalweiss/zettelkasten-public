@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #achtsamkeit #public
 
 Achtsamkeit ist eine Technik, bei der man sich selbst in einem besonderen Zustand der Klarheit und Konzentration versetzt, und sich dabei möglichst nicht von potenziellen Störfaktoren ablenken lässt. 

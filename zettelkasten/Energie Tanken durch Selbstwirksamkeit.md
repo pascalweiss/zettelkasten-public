@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #feegoodprod 
 
 Es geht darum sich selbst das Gefühl zu verschaffen, Kontrolle über sich, die Arbeit und das Leben zu haben. Dieses Gefühl wird durch [[Erfolgserlebisse]] ausgelöst. Mit diesem Gefühl geht man dann alles, womit man sich aus einander setzen muss, an. Konkret geht es um das Gefühl der Selbstwirksamkeit (siehe [[Selbstwirksamkeit]]). 

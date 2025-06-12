@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public
 WebAssembly is a w3c standard, that allows to run high performance tasks inside the browser. These high performance tasks are executed by a WebAssembly binary (wasm), which is retrieved from the backend and invoked in a Javascript component. Hence it is not supposed for replacing Javascript, which should still be used for manipulating the DOM. 
 For development web-assembly components, code can be written in many programming languages and then be compiled into web-assembly.

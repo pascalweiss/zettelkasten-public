@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public
 
 Dies sind Menschen, die vor allem zielorientiert, entschlossen, und durchsetzungsstark sind. Sie wollen Ziele schnell erreichen. Hierbei sind sie in der Lage, andere Menschen mitzuziehen. Sie sind hartnäckig und tun alles, um das Ergebnis zu erreichen. Mit Verantwortung haben sie kein Problem. 

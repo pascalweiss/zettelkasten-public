@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public
 
 Initiative Menschen sind Beziehungsmenschen. Sie lieben es ihr Netzwerk zu verbreitern und aufzubauen. Mit Ihrem Charme und Optimismus schaffen sie es, mitzureißen. Sie strahlen Leidenschaft und positive Energie aus. 

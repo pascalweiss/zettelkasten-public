@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public
 DISG ist ein Persönlichkeitsmodell, bei dem vier verschiedene Persönlichkeitsprofile identifiziert werden. Diese geben Auskunft darüber, wie eine Person sich in bestimmten Situationen verhält, und wie sie kommuniziert. Die Persönlichkeitsprofile unterscheiden sich anhand der Dimensionen bindungsorientiert / aufgabenorientiert und introvertiert / extrovertiert.
 

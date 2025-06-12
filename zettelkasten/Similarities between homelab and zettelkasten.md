@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public 
 
 - **Interaction with ideas**: Both are made for developing knowledge and ideas about the things that you are interested in. Instead of having fleeting ideas only in the head for a short period of time, both, zettelkasten and a homelab allow to stick with an idea, to interact with it (by text or by code).

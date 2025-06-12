@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public
 This page describes how Flux CD interacts with Helm (see [[Helm]]). It shows how to create a helm chart and store it into a git repository. Then it describes how to configure flux, to observe this helm chart and deploy it to the kubernetes cluster.
 

@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public
 #### Vorteile
 - Am Anfang vielleicht etwas mehr Aufwand, aber durch die positive Entwicklung des Kindes zahlt es sich langfristig aus - sowohl in der Entwicklung des Kindes, als auch beim Aufwand bei der Erziehung

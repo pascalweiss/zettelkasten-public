@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public 
 ### Annahme
 Kommunikation ist nie Objektiv. Alles was man sagt wird beim Empfänger erst mal gefiltert durch dessen **eigene Erfahrungen, persönliche Werte, Einflüsse und Prinzipien**. Was im Endeffekt wirklich beim Empfänger ankommt ist nur das, was überhaupt bei ihm ankommen kann. Wie diese Filter beim Empfänger ausgeprägt sind, und wie sie arbeiten ist vom Empfänger nicht beeinflussbar.

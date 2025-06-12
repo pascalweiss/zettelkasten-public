@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T23:45
+---
 #public 
 
 I see my homelab as a place where I can easily deploy software. This might either be for educational purposes, like testing out certain programming languages, frameworks or libraries, or it might be for prototyping of business ideas. 
