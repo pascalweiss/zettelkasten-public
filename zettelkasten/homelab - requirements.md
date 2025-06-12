@@ -1,3 +1,7 @@
+---
+created: 2025-03-12T17:54
+updated: 2025-06-12T23:41
+---
 #public
 
 **With my homelab, I want to: ...**

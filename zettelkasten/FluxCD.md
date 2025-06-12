@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-12T11:56
+---
 #public
 A tool that helps to implement [[GitOps]] principles for kubernetes. It watches the git repository and automatically applies changes to the cluster. 
 
@@ -17,7 +21,7 @@ A tool that helps to implement [[GitOps]] principles for kubernetes. It watches 
 - [[FluxCD - Preview deployments]]
 
 #### Flux Basics
-- [[FluxCD - Bootstrapping with Github]]
+- [[FluxCD - Bootstrapping with Gitlab]]
 - [[FluxCD - Recreation to multiple clusters]]
 - [[FluxCD - Handling git Access Tokens]]
 
