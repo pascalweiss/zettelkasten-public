@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-12T23:45
+updated: 2025-06-14T21:38
 ---
 #public
 Wenn man die eigenen Bedürfnisse kennt, kann man sich als Ziel setzen, diese zu befriedigen. Für manche Bedürfnisse Bedarf es hierzu nur wenig Handlungsschritte. Das Bedürfnis kann instant erfüllt werden, wodurch auch instant positive Gefühle (siehe auch [[positive Emotionen]]) erzeugt werden können.

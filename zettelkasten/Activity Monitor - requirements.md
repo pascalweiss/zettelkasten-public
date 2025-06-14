@@ -1,6 +1,6 @@
 ---
 created: 2025-03-19T23:18
-updated: 2025-06-12T23:45
+updated: 2025-06-14T21:38
 ---
 ### Basic requirements
 - It is a web app, that runs in the browser

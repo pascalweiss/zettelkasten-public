@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-14T21:20
+updated: 2025-06-14T21:38
 ---
 #public
 Auch wenn jeder Mensch individuell geprägt ist, gibt es bestimmte Verhaltensweisen, die signifikant oft durch die selbe Art von frühkindlicher Prägung zustande kommen. Einige sind im folgenden Aufgelistet

@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-12T23:45
+updated: 2025-06-14T21:38
 ---
 #public 
 Hierbei handelt es sich um zwei Hirnareale, die in einer besonderen Beziehung zu einander stehen. Beide beeinflussen unser Verhalten maßgeblich. Allerdings ist die Art und Weise, wie sie uns beeinflussen weitgehend gegensätzlich. 

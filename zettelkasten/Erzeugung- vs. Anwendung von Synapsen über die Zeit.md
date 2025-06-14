@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-12T23:45
+updated: 2025-06-14T21:38
 ---
 #public
 Das folgende Schaubild verdeutlicht, dass die Anzahl der Synapsen im frühen Alter zunimmt. Anfangs sind die Synapsen noch ungenutzt. Aber nach und nach werden die Synapsen funktional und bilden zusammen mit Neuronen neuronale Netze. Die Anzahl der funktionalen Synapsen wird immer mehr.

@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-12T23:45
+updated: 2025-06-14T21:38
 ---
 #public
 Sometimes I want to check, if a peace of software actually sends http requests. Normally, when I have control over the sender and the receiver, this is quite easy, since I can simply look into the logs.
