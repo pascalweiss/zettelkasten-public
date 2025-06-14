@@ -1,3 +1,7 @@
+---
+created: 2025-05-04T15:30
+updated: 2025-06-12T23:45
+---
 #public 
 
 Reverse proxy for routing to all services that are not in the kubernetes cluster. 

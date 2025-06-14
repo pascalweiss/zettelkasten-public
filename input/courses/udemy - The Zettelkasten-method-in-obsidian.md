@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #course 
 
 A course by Mischa Van Den Burg. It is about applying the Zettelkasten System by Niklas Luhmann with [[docu - Obsidian]]. 

@@ -1,3 +1,7 @@
+---
+created: 2025-03-12T21:20
+updated: 2025-06-14T21:20
+---
 #public 
 
 There are various applications integrated into my homelab. Each app has its own (mono) repository, with a corresponding main branch. These main branches are observed by FluxCD, so that every change is automatically reflected to the cluster deployments. It can be seen as production deplyoments

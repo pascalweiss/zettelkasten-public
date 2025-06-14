@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #feegoodprod #public
 
 Beim Energie tanken geht es darum, sich einen möglichst großen Input an positiver Energie zu verschaffen. Letztlich kann man bei "positiver Energie" von einer Menge Neurotransmittern reden (siehe [[Neurotransmitter für positive Emotionen]]), die in der Lage sind, die Produktivität und auch die effektive [[Kognitive Resourcen]] zu steigern. Ausgeschüttet werden diese Neurotransmitter bei positiven Emotionen (siehe [[positive Emotionen]]).

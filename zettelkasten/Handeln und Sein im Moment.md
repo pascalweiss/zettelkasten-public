@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #achtsamkeit #public
 
 Ein wichtiges Element von Achtsamkeit ist, dass man seine Aufmerksamkeit so stark wie möglich auf das Hier-und-jetzt lenkt. Man befasst sich nur mit dem, was für den jeweiligen Moment relevant ist. 

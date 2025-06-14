@@ -1,3 +1,7 @@
+---
+created: 2025-05-04T15:22
+updated: 2025-06-14T21:20
+---
 This is a mini PC of type [[Minis Forum Venus Series UM773]]. The following sections give an overview about the deployed software components.
 
 #### Docker

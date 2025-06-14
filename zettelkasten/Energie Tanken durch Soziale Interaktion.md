@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #feegoodprod 
 
 Andere Menschen haben immer auch Einfluss auf das eigene Wohlbefinden und den Energie Pegel. Um bei der Interaktion mit anderen Menschen das Energie Level möglichst hoch zu halten gibt es folgende Möglichkeiten:

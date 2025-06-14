@@ -1,3 +1,7 @@
+---
+created: 2025-03-22T12:46
+updated: 2025-06-14T21:20
+---
 
 - `Ctrl+x` then `Ctrl+x`: Toggle between current position and start of line
 - `Ctrl+w`: Cut the word before the cursor

@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 
 Dies sind Menschen, die vor allem verlässlich, geduldig und ausgeglichen sind. Sie legen großen Wert auf ein harmonisches Miteinander und ein stabiles Umfeld. Veränderungen begegnen sie mit Bedacht, da ihnen Kontinuität und Beständigkeit wichtig sind.

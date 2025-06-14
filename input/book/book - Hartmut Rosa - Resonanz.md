@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #book 
 
 Ein Buch, bei dem Rosa den positiven Umgang mit der Umwelt als „Resonanz“ beschreibt.

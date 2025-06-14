@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 An open-source identity and access management (IAM) system. It provides authentication, authorisation (see [[Authentication and authorization]])and user-management for applications and services. It provides features such as SSO (single-sign-on), OAuth2 (social login), etc. 
 

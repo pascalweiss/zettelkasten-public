@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #index #public
 
 This is the entry point that describes my approach to Zettelkasten. It is based on the course [[udemy - The Zettelkasten-method-in-obsidian]] by Mischa Van Den Burg.

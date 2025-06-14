@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 Um im Endeffekt irgend etwas für sich zu verbessern und positive Emotionen zu erzeugen, muss man zunächst einmal wissen, was überhaupt gut für einen ist. Man muss sich selbst kennen, und verstehen, welche Änderungen wann genau zu einer Besserung führen würden.
 

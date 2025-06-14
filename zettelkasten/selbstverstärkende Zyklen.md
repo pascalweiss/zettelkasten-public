@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 
 Hierbei geht es um psychologische Systeme, bei denen sich die Elemente jeweils gegenseitig verstärken. Die Elemente können Gefühle, Gedanken oder Verhaltensweisen sein. Jedes System ist hoch individuell. 

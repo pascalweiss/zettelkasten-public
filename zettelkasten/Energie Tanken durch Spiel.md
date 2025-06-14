@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #feegoodprod 
 
 Auch wenn die zu verrichtende Aufgabe manchmal als langweilig erscheint, kann man dennoch versuchen, ihre einen spielerischeren Charakter zu verleihen. Möglichkeiten, die sich hierbei bieten:

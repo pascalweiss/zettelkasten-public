@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 
 **1. General Information** This is a private website ("Digital Garden") where I share my thoughts, reflections, and opinions on various topics. The content does not constitute professional or scientific advice and should not be relied upon for legal, financial, medical, or other expert decisions.

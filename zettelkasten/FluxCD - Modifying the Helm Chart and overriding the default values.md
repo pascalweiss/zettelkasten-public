@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 It is often required to not also deploy a helm chart, but to also make changes to it. This page describes how to apply the modifications with flux.
 

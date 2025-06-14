@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 Seit kurzem (12.11.2024) gibt es eine neue EU Richtlinie die Software Hersteller haftbar, wenn die Software **Personenschäden** oder **Sachschäden** verursacht. Z.B. durch bugs. 
 

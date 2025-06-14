@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 
 An open source helm chart repository. It is handy for quickly setting up a helm repository via docker. 
