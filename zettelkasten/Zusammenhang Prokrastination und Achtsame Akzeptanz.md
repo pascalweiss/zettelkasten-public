@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-12T23:45
+updated: 2025-06-14T21:38
 ---
 #public 
 Manchmal lässt einen der innere Autopilot reflexartige Handlungen vollziehen, die einen daran hindern die eigentliche stressige Aufgabe abzuschließen. Ein typisches Beispiel sind Raucherpausen während einer wichtigen Arbeit am Computer. Dies nennt man dann [[Prokrastination]].

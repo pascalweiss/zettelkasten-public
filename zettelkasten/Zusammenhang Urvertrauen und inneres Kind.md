@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-14T21:20
+updated: 2025-06-14T21:38
 ---
 #public
 In der Psychologie sind das zwei getrennte Konzepte. Allerdings sind sie stark verwandt. Beide Konzepte beziehen sich auf eine Prägung in der frühen Kindheit, die den weiteren Verlauf im Leben stark bestimmt.

@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-14T21:20
+updated: 2025-06-14T21:38
 ---
 #public
 A set of Zettels where many interconnections are given can be interpreted as a cluster. Such clusters are likely to represent a certain topic. 

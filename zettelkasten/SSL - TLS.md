@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-14T21:20
+updated: 2025-06-14T21:38
 ---
 #public 
 SSL/TLS is used to provide a secure connection between a client and a server. 

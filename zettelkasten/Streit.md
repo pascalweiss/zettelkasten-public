@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-14T21:20
+updated: 2025-06-14T21:38
 ---
 #public
 Ein Streit ist eine Form von Konflikt, bei dem die Parteien stark emotional getrieben sind. Anders als bei einer Aggression (siehe [[Aggression]]) versuchen die Parteien jedoch nicht dem anderen zu schaden. Eher geht es den Parteien darum, den jeweiligen Standpunkt zu verteidigen. 

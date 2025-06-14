@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-14T21:20
+updated: 2025-06-14T21:38
 ---
 #public
 Eine Theorie, die einen selbstverstärkenden Zyklus (siehe [[selbstverstärkende Zyklen]]) beschreibt, der durch positive Emotionen (siehe [[positive Emotionen]]) angetrieben wird. 

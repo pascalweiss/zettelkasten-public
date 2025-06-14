@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-12T23:45
+updated: 2025-06-14T21:38
 ---
 #public 
 Rust is a compiled, memory safe programming language, that supports procedural, functional and object oriented programming. It combines a high level of simplicity with low level performance (like in C/C++). Memory safety is achieved by its concept "ownership and borrowing", instead with garbage collection.

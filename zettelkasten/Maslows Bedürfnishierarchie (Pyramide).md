@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-14T21:20
+updated: 2025-06-14T21:38
 ---
 #public
 Maslows Bedürnispyramide sagt aus, dass es bestimmte Kategorien von Bedürnissen gibt. Und diese Bedürfnisse sind in Reihe. Genauer gesagt sind sie von oben nach unten angeordnet. 

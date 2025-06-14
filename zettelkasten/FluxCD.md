@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-12T11:56
+updated: 2025-06-14T21:38
 ---
 #public
 A tool that helps to implement [[GitOps]] principles for kubernetes. It watches the git repository and automatically applies changes to the cluster. 

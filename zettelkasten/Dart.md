@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-14T21:20
+updated: 2025-06-14T21:38
 ---
 #public
 A type safe programming language, that allows programming in the functional- or object oriented paradigm. For developing and testing, it runs in a virtual machine. For deployment, it can be compiled to multiple platforms, such as mobile devices, the browser, macOS or linux. 

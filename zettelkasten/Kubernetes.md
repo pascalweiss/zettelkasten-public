@@ -1,6 +1,6 @@
 ---
 created: 2024-10-09T08:36
-updated: 2025-06-11T09:17
+updated: 2025-06-14T21:38
 ---
 
 Kubernetes (K8s) is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. Think of it as an operating system for the cloud, abstracting away the underlying infrastructure and providing a consistent environment across different clouds and on-premises deployments.

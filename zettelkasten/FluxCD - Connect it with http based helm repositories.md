@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-14T21:20
+updated: 2025-06-14T21:38
 ---
 #public
 Flux can use helm repositories for retrieving helm charts and deploy them in the cluster. It automatically detects changes in the chart and makes sure, that the version in the cluster is the same.

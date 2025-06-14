@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-14T21:20
+updated: 2025-06-14T21:38
 ---
 #public
 Eine Menge an geistigen **Werkzeugen** in Kombination mit einer begrenzten Menge an **mentaler Energie** zur Anwendung dieser Werkzeuge auf **Denkprozesse**, **Informationsverarbeitung** und **Problemlösungsaufgaben**.
