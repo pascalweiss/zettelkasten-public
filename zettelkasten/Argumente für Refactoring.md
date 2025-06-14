@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 Ein Refactoring schafft aus User-Sicht eher keinen Value. Deswegen müssen manchmal Argumente gefunden werden, um Stakeholder zu überzeugen. 
 

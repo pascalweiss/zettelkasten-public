@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #index #public
 
 Eine Disziplin der Neueowissenschaften, bei der es darum geht, wie kognitive Prozesse im Gehirn mit menschlichem Denken, Handeln und Fühlen zusammenhängt. 

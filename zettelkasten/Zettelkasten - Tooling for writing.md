@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 
 For my Zettelkasten I use Obsidian (see [[docu - Obsidian]]) as editor and document organizer. This way, each page (or Zettel) is written and formatted in markdown (see [[docu - Markdown]]). This also allows to include page-links and hashtags to connect thoughts to each other. 

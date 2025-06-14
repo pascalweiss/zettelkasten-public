@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 Bei der Entwicklung des Gehirns gibt es unterschiedliche Phasen, in denen bestimmte kognitive Fähigkeiten besonders stark ausgeprägt werden. Hierbei handelt es sich z.B. um Fähigkeiten wie:
 - Sensorik

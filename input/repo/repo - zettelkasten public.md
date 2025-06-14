@@ -1,3 +1,7 @@
+---
+created: 2025-03-22T11:18
+updated: 2025-06-14T21:20
+---
 #repo #public
 
 private: http://git.homelab.lan/homelab/zettelkasten-public

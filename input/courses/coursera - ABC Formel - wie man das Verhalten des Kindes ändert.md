@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #video #consume #coursera
 
 https://www.coursera.org/learn/everyday-parenting

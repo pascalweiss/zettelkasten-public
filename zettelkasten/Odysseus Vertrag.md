@@ -1,3 +1,7 @@
+---
+created: 2025-05-11T23:16
+updated: 2025-06-12T23:45
+---
 #public 
 
 Man legt sich selbst bestimmte Regeln auf, um sich vor unerwünschten Verhalten, durch z.B. Irrationalität oder Impulsivität, abzuhalten.

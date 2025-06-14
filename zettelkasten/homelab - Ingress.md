@@ -1,3 +1,7 @@
+---
+created: 2025-03-02T21:51
+updated: 2025-06-14T21:20
+---
 #public
 
 a nginx that routes http requests to the right service. 

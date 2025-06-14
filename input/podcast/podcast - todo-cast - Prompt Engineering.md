@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
  #podcst
 
 https://open.spotify.com/episode/42RprpxRPACHMFBgRCxx49?si=b7d4ae19ffe843aa

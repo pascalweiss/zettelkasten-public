@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 Hierbei handelt es sich um zeitlich begrenzte Phasen, in denen bestimmte Fähigkeiten erlernt werden. Wird die jeweilige Fähigkeit in diesem Zeitraum nicht erlernt - etwa durch fehlende Reize - kann diese Entwicklung später nur schwer nachgeholt werden. 
 

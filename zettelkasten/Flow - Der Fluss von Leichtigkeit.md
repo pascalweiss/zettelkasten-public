@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #personal #public
 
 Flow ist ein Zustand, bei dem man kreativ, produktiv, selbstsicher, zuversichtlich und motiviert ist. 

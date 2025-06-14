@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public 
 House und Techno Songs enthalten viel Repetition, wobei meistens ein progressiver Spannungsverlauf entwickelt wird. Oft werden Abschnitte mit einer Länge von 8 oder 16 Takten gewählt. Diese werden wiederholt, variiert (z.B. mit Effekten) und unterschiedlich kombiniert.
 Im folgenden werden die typischen Song Abschnitte beschrieben.

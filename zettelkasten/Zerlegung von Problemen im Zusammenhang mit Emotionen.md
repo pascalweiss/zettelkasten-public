@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 Manche Probleme sind so groß, dass sie nicht sofort gelöst werden können. Sie können auf den ersten Blick überwältigend wirken und so zu Frustration führen.
 Die Zerlegung eines Problems hat daher mit Blick auf Emotionen folgende Vorteile:

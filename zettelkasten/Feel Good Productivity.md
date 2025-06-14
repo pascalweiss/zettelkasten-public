@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #feegoodprod #public
 ## Kernaussage
 Erfolg muss nicht auf grimmiger selbstzerstörerischen Antriebsquellen wie Stress oder Disziplin aufbauen. Erfolg ist nachhaltiger, wenn er sich an das eigene Wohlbefinden, und an den Dingen die einen wirklich interessieren, gekoppelt ist. Um diese Kopplung zu schaffen gibt es verschiedene Methoden, die im folgenden beschrieben sind. 

@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public 
 A kubernetes tool for managing kubernetes configurations. It allows to "kustomize" Kubernetes manifests, without manipulating the corresponding original files. This is done by so called **Overlays**, in which the manipulation of the original resource is defined. Usually, these overlays are used to for adjusting kubernetes resources for specific environments (like dev, prod, testing).
 

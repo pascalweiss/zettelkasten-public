@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 
 As of now (2024-11-11) when you load a repo with submodules into IntelliJ (or other Jetbrains IDEs), it does not handle submodules correctly, out of the box. 

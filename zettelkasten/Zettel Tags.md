@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 In contrast to Zettel links, a tag is not used for content wise relations. Instead they are used for organizing and managing notes. The following tags are recommended: 
 

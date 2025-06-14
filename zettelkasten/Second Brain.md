@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 I want to create a network of my own thoughts using notes. It should be like a second brain. It should encourage me to articulate, structure, and preserve my thoughts.  
 

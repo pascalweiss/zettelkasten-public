@@ -1,3 +1,7 @@
+---
+created: 2025-03-19T23:18
+updated: 2025-06-12T23:45
+---
 ### Basic requirements
 - It is a web app, that runs in the browser
 - It has responsive design, so that it has a good look on both, desktop and phone

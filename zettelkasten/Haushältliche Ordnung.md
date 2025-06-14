@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public
 
 Ich bin nicht unordentlich. Aber wenn ich über self-organisation schreibe, dann darf das Thema "Haushalt" nicht fehlen. Also, im Folgenden: Warum ein ordentlicher Haushalt hilft, bzw. weswegen dieser wesentlich zum Wohlbefinden beiträgt. 

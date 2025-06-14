@@ -1,3 +1,7 @@
+---
+created: 2025-03-11T22:32
+updated: 2025-06-14T21:20
+---
 #public
 
 This page describes how to mirror commits from a gitlab repository to a github repository.

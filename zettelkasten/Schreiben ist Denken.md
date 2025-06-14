@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public 
 
 Ich finde, dies ist eine machtvolle Erkenntnis. Die Aussage impliziert (für mich), dass schreiben nicht nur ein Mittel zum Festhalten und Vermitteln bereis erlangter Erkenntnisse ist, sondern auch proaktiv dazu genutzt werden kann, um neue Erkenntnisse zu entwickeln. 

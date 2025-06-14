@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public 
 Oft wird man durch negative Gefühle oder unerwünschte äußere Umstände in seinem Handeln blockiert. Dies kann dazu führen, dass man sich gelähmt fühlt, und keinen Ausweg findet. Der innere **Autopilot** übernimmt die Steuerung und vollzieht **reflexartige Handlungsschritte**, die z.B. der Flucht oder der Vermeidung dienen, aber die einen in der Realität **nicht aus der unangenehmen Situation** verhelfen. 
 

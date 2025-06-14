@@ -1,3 +1,7 @@
+---
+created: 2025-03-03T08:00
+updated: 2025-06-14T21:20
+---
 #public 
 
 Dies sind Menschen, die vor allem analytisch, präzise und detailorientiert sind. Sie legen großen Wert auf Genauigkeit und arbeiten systematisch, um Fehler zu vermeiden. Strukturen, Regeln und klare Prozesse geben ihnen Sicherheit.

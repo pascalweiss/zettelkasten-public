@@ -1,9 +1,8 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-12T23:41
+updated: 2025-06-14T21:20
 ---
 #public
-
 ### Wie will ich arbeiten
 - **Fokus:** auf Erstellung von Live Sets, die mit Improvisation kombiniert werden können. Inspiration hierfür siehe [[youtube - Preparing ableton Session View for Planung live]]
 - **Kein Perfektionismus**: Das bedeutet keine vollendeten Songs. 
