@@ -1,6 +1,6 @@
 ---
 created: 2024-10-09T08:36
-updated: 2025-06-14T21:38
+updated: 2025-06-21T16:33
 ---
 
 Kubernetes (K8s) is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. Think of it as an operating system for the cloud, abstracting away the underlying infrastructure and providing a consistent environment across different clouds and on-premises deployments.
@@ -97,7 +97,7 @@ Store non-confidential configuration data as key-value pairs.
 
 #### Secrets
 
-Store sensitive information such as passwords, OAuth tokens, and SSH keys. See [[Secret]] and [[Sealed-Secret]]
+Store sensitive information such as passwords, OAuth tokens, and SSH keys. See [[K8s - Secret]] and [[K8s - Sealed-Secret]]
 
 ### Namespaces
 
