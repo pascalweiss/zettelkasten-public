@@ -1,16 +1,16 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-06-14T21:38
+updated: 2025-06-29T20:42
 ---
 #achtsamkeit #public
 
-Achtsamkeit ist eine Technik, bei der man sich selbst in einem besonderen Zustand der Klarheit und Konzentration versetzt, und sich dabei möglichst nicht von potenziellen Störfaktoren ablenken lässt. 
+Achtsamkeit ist eine Technik, bei der man sich selbst in einem Zustand der Klarheit und Konzentration versetzt, und sich dabei möglichst nicht von potenziellen inneren oder äußeren Störfaktoren ablenken lässt. 
 
 Jon Kabot-Zinns definiert Achtsamkeit als *"die absichtsvolle, gegenwärtige und nicht-wertende Aufmerksamkeit".*
 
 Die Kernelemente sind im folgenden Aufgelistet:
 - [[Handeln und Sein im Moment]]: Der Geist konzentriert sich auf die im Moment zu verrichtenden Geistige Aufgabe
-- [[Wertfreie Wahrnehmung]]: Der Geist lässt sich nicht von Emotionen, die auf Grund von unvorhergesehenen Wahrnehmungen aufkommen, ablenken
+- [[Wertfreie Wahrnehmung]]: Der Geist lässt sich nicht von Emotionen, die auf Grund von unkontrollierten Wahrnehmungen aufkommen, ablenken
 - [[Achtsame Akzeptanz]]
 
 ### Hypothese zur Wirksamkeit von Achtsamkeit
