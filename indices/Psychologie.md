@@ -1,13 +1,13 @@
 ---
 created: 2025-03-03T08:00
-updated: 2025-07-03T20:06
+updated: 2025-07-03T20:15
 ---
 #index #public
 
 ### Entwicklungspsychologie
 - [[Frühzeitige Entwicklung von Kognitiven Fähigkeiten]]
 - [[Entwicklung der Willentlichen Kontrolle über Gedanken, Emotionen und Verhaltensweisen]]
-- [[Entwicklungssprünge nach - Oje, ich wachse]]
+- [[Entwicklungssprünge nach - Oje ich wachse]]
 
 
 ### Selbstentwicklung und Selbstwahrnehmung
