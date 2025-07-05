@@ -1,0 +1,8 @@
+stages:
+  - test
+
+gitleaks_scan:
+  image: zricethezav/gitleaks:latest
+  stage: test
+  script:
+    - gitleaks detect --verbose --source=$CI_PROJECT_DIR 
