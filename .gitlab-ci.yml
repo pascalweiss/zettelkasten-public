@@ -4,5 +4,7 @@ stages:
 gitleaks_scan:
   image: zricethezav/gitleaks:latest
   stage: test
+  tags: 
+    - kubernetes
   script:
     - gitleaks detect --verbose --source=$CI_PROJECT_DIR 
