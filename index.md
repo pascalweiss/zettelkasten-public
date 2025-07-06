@@ -1,6 +1,6 @@
 ---
 created: 2025-02-23T12:31
-updated: 2025-03-11T02:17
+updated: 2025-07-06T11:20
 ---
 #public
 
@@ -16,6 +16,7 @@ So this space is for me, to explore ideas and grow, without worrying about prais
 
 You may want to enter either in the root index. From there you can reach every topic
 [[_root]]
+
 
 ### 🌟 Featured Notes
 - [[Achtsamkeit]]
