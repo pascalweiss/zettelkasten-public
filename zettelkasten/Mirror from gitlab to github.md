@@ -1,6 +1,6 @@
 ---
 created: 2025-03-11T22:32
-updated: 2025-06-19T22:15
+updated: 2025-07-06T14:25
 ---
 #public
 
@@ -19,7 +19,7 @@ This page describes how to mirror commits from a gitlab repository to a github r
 - select authentication: Username & Password
 - provide github username 
 - provide PAT from github as password
-- select "keep divergent refs"
+- to prevent force push select "keep divergent refs" (this will also prevent initial push)
 - ok 
 
 
